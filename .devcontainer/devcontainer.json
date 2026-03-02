@@ -1,0 +1,18 @@
+{
+    "image": "ghcr.io/fredhutch/tfcb_2026:1.0.0",
+    // "build": {
+    //     "dockerfile": "./Dockerfile",
+    // },
+    "settings": {
+        "extensions.autoUpdate": false,
+        "extensions.autoCheckUpdates": false
+    },
+    "extensions": [
+        // Python extension 
+        "ms-python.python",
+        // Jupyter extension
+        "ms-toolsai.jupyter",
+        // R extension 
+        "REditorSupport.r",
+    ],
+}
