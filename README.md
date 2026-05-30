@@ -40,8 +40,8 @@ TA Office Hours and Location: TBD
 | 16      | Nov 24 | Rasi Subramaniam         | [Genomic data in R](lectures/lecture16/)                                        |
 |         | Nov 26 |                          | *Thanksgiving - no class*                                                       |
 | 17      | Dec 1  | Maggie Russell           | [Immune repertoire sequencing and analysis](lectures/lecture17/)                |
-| 18      | Dec 3  | Dominik Otto (Setty Lab) | [Single-cell RNA-seq analysis](lectures/lecture18/)                             |
-| 19      | Dec 8  | Dominik Otto (Setty Lab) | [Single-cell RNA-seq analysis (continued)](lectures/lecture19/)                 |
+| 18      | Dec 3  | Manu Setty               | [Single-cell RNA-seq analysis](lectures/lecture18/)                             |
+| 19      | Dec 8  | Manu Setty               | [Single-cell RNA-seq analysis (continued)](lectures/lecture19/)                 |
 
 Materials for each lecture will be available in this repository prior to the class session;
 the link for each topic will take you to the folder containing materials for that class.
