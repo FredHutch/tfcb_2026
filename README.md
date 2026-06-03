@@ -35,7 +35,7 @@ TA Office Hours and Location: TBD
 | 11      | Nov 5  | Phil Bradley             | [Modeling/machine learning in Python (continued)](lectures/lecture11)           |
 | 12      | Nov 10 | -             | [Data analysis using R/tidyverse](lectures/lecture12/)                          |
 | 13      | Nov 12 | -             | [Data analysis using R/tidyverse (continued)](lectures/lecture13/)              |
-| 14      | Nov 17 | -         | [Biological sequences and annotations in Bioconductor](lectures/lecture14/)     |
+| 14      | Nov 17 | Erick Matsen         | [AI Agents for Coding]     |
 | 15      | Nov 19 | -             | [Introduction to sequencing data](lectures/lecture15/)                          |
 | 16      | Nov 24 | -         | [Genomic data in R](lectures/lecture16/)                                        |
 |         | Nov 26 |                          | *Thanksgiving - no class*                                                       |
