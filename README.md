@@ -15,7 +15,7 @@ This document is the syllabus for this course.
 
 Time: 3:30PM-4:50PM, Tue & Thu, Oct 1 - Dec 8 2026
 
-Class Location: TBD
+Class Location: Fred Hutch, B1-072
 
 TA Office Hours and Location: TBD
 
