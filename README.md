@@ -33,11 +33,11 @@ TA Office Hours and Location: TBD
 | 9       | Oct 29 | Maggie Russell           | [Data structures/biological analyses in Python (continued)](lectures/lecture09) |
 | 10      | Nov 3  | Phil Bradley             | [Modeling and machine learning in Python](lectures/lecture10)                   |
 | 11      | Nov 5  | Phil Bradley             | [Modeling/machine learning in Python (continued)](lectures/lecture11)           |
-| 12      | Nov 10 | -             | [Data analysis using R/tidyverse](lectures/lecture12/)                          |
-| 13      | Nov 12 | -             | [Data analysis using R/tidyverse (continued)](lectures/lecture13/)              |
+| 12      | Nov 10 | Bo Yuan | [Data analysis using R/tidyverse](lectures/lecture12/)                          |
+| 13      | Nov 12 | Bo Yuan and Siyuan Chen | [Data analysis using R/tidyverse (continued)](lectures/lecture13/)              |
 | 14      | Nov 17 | Erick Matsen         | AI Agents for Coding   |
-| 15      | Nov 19 | -             | [Introduction to sequencing data](lectures/lecture15/)                          |
-| 16      | Nov 24 | -         | [Genomic data in R](lectures/lecture16/)                                        |
+| 15      | Nov 19 | Chandra Sekhar Mukherjee | [Introduction to sequencing data](lectures/lecture15/)                          |
+| 16      | Nov 24 | Siyuan Chen and Chandra Sekhar Mukherjee | [Genomic data in R](lectures/lecture16/)                                        |
 |         | Nov 26 |                          | *Thanksgiving - no class*                                                       |
 | 17      | Dec 1  | Maggie Russell           | [Immune repertoire sequencing and analysis](lectures/lecture17/)                |
 | 18      | Dec 3  | Manu Setty               | [Single-cell RNA-seq analysis](lectures/lecture18/)                             |
@@ -105,9 +105,12 @@ For general inquiries about this course or add codes, please contact GraduateEdu
 - [Phil Bradley](https://www.fredhutch.org/en/labs/profiles/bradley-phil.html)
 - [Melody Campbell](https://www.fredhutch.org/en/faculty-lab-directory/campbell-melody.html)
 - [Matthew Chan](https://www.linkedin.com/in/matthew-c-chan-0/)
+- [Siyuan Chen](https://jsb-lab.org/people/siyuan-chen/)
+- [Chandra Sekhar Mukherjee](https://jsb-lab.org/people/chandra-sekhar-mukherjee/)
 - [Maggie Russell](https://www.linkedin.com/in/magdalena-russell/)
 - [Manu Setty](https://research.fredhutch.org/setty/en.html)
 - [Arvind Rasi Subramaniam](http://rasilab.fredhutch.org)
+- [Bo Yuan](https://jsb-lab.org/people/bo-yuan/)
 
 ## Teaching Assistant
 
