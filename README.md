@@ -106,7 +106,7 @@ For general inquiries about this course or add codes, please contact GraduateEdu
 - [Melody Campbell](https://www.fredhutch.org/en/faculty-lab-directory/campbell-melody.html)
 - [Matthew Chan](https://www.linkedin.com/in/matthew-c-chan-0/)
 - [Maggie Russell](https://www.linkedin.com/in/magdalena-russell/)
-- [Dominik Otto (Setty Lab)](https://research.fredhutch.org/setty/en.html)
+- [Manu Setty](https://research.fredhutch.org/setty/en.html)
 - [Arvind Rasi Subramaniam](http://rasilab.fredhutch.org)
 
 ## Teaching Assistant
