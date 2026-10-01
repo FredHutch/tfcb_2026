@@ -48,9 +48,15 @@ Slack Workspace: TFCB2026 (see Canvas for invite link)
 
 ## Teaching assistant & office hours
 
-- [Val Browning](https://sites.uw.edu/vasquezlab/people/val/)
-- Office hours and location: Thursday 2-3PM, Fred Hutch cafeteria
-- Check Canvas and Slack for Zoom link
+<img src="./img/instructors/val-browning.png" alt="Val Browning" style="display:block;width:180px;margin:20px auto;"/>
+
+[Val Browning](https://sites.uw.edu/vasquezlab/people/val/)
+
+- Thursdays, 2–3 PM Pacific
+- Fred Hutch cafeteria area or Zoom
+- See Canvas and Slack for the Zoom link
+
+<!-- Portrait source: https://sites.uw.edu/vasquezlab/files/2025/10/val_circle-300x300.png -->
 
 ---
 
