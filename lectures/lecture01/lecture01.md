@@ -115,6 +115,40 @@ chandra-sekhar-mukherjee.jpg: https://jsb-lab.org/wp-content/uploads/2026/06/Unt
 
 ---
 
+<!-- .slide: data-transition="none" -->
+
+## Learning to program without AI
+
+<img class="ai-learning" src="./img/programming_without_ai.svg" alt="Conceptual graph of programming capability over time: a long slow start followed by accelerating growth through practice.">
+
+<p class="ai-learning-caption">A conceptual learning curve</p>
+
+<aside class="notes" data-markdown="">
+- The horizontal axis is time spent learning; the vertical axis is what you can do.
+- Early practice can feel unproductive. The exponential curve illustrates progress compounding as concepts connect.
+- This is a teaching schematic, not a measured learning trajectory.
+</aside>
+
+---
+
+<!-- .slide: data-transition="none" -->
+
+## Adding AI agents
+
+<img class="ai-learning" src="./img/programming_with_ai.svg" alt="Conceptual graph comparing AI use early and after learning: each gives a fivefold jump followed by gradual linear growth, with the later start reaching a much higher level. A dashed curve shows continued learning without AI.">
+
+<p class="ai-learning-caption">With AI: an immediate boost, then gradual progress.<br>Illustrative curves; not measured effects.</p>
+
+<aside class="notes" data-markdown="">
+- Carry forward the same axes and learning curve from the previous slide.
+- AI from the start gives an immediate boost, followed by gradual linear progress.
+- Learning the fundamentals first gives the same illustrative multiplier a larger starting point, followed by the same gentle upward slope.
+- The vertical jumps represent capability with AI assistance, not an instant increase in personal understanding.
+- Both AI paths continue to rise: adopting AI does not mean learning stops. The shapes and multiplier are illustrative, not measured effects.
+</aside>
+
+---
+
 ## Course objectives
 
 <div style="font-size: smaller;">
