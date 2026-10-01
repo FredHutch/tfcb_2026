@@ -104,7 +104,6 @@ For general inquiries about this course or add codes, please contact GraduateEdu
 
 - [Phil Bradley](https://www.fredhutch.org/en/labs/profiles/bradley-phil.html)
 - [Melody Campbell](https://www.fredhutch.org/en/faculty-lab-directory/campbell-melody.html)
-- [Matthew Chan](https://www.linkedin.com/in/matthew-c-chan-0/)
 - [Siyuan Chen](https://jsb-lab.org/people/siyuan-chen/)
 - [Erick Matsen](https://matsen.fredhutch.org/)
 - [Chandra Sekhar Mukherjee](https://jsb-lab.org/people/chandra-sekhar-mukherjee/)

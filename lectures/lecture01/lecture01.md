@@ -54,59 +54,49 @@ Slack Workspace: TFCB2026 (see Canvas for invite link)
 
 ## Instructors
 
-<table>
+<table class="instructor-row">
 <tr>
 <td>
-<img src="./img/instructors/melody-campbell.png" style="width:150px;">
+<a href="https://www.fredhutch.org/en/labs/profiles/bradley-phil.html"><img src="./img/instructors/philip-bradley.jpg" alt="Phil Bradley">Phil<br>Bradley</a>
 </td>
 <td>
-<img src="./img/instructors/philip-bradley.jpg" style="width:165px;">
+<a href="https://www.fredhutch.org/en/faculty-lab-directory/campbell-melody.html"><img src="./img/instructors/melody-campbell.png" alt="Melody Campbell">Melody<br>Campbell</a>
 </td>
 <td>
-<img src="./img/instructors/maggie-russell.jpeg" style="width:150px;">
-</td>
-</tr>
-<tr>
-<td>
-Melody Campbell
+<a href="https://jsb-lab.org/people/siyuan-chen/"><img src="./img/instructors/siyuan-chen.jpg" alt="Siyuan Chen">Siyuan<br>Chen</a>
 </td>
 <td>
-Phil Bradley
+<a href="https://matsen.fredhutch.org/"><img src="./img/instructors/erick-matsen.jpg" alt="Erick Matsen">Erick<br>Matsen</a>
 </td>
 <td>
-Maggie Russell
-</td>
-</tr>
-<tr>
-<td>
-<img src="./img/instructors/matthew-chan.jpg" style="width:150px;">
-</td>
-<td>
-<img src="./img/instructors/manu-setty.jpeg" style="width:152px;">
-</td>
-<td>
-<img src="./img/instructors/arvind-rasi-subramaniam.jpg" style="width:150px;">
-</td>
-</tr>
-<tr>
-<td>
-Matthew Chan
-</td>
-<td>
-Manu Setty
-</td>
-<td>
-Rasi Subramaniam
+<a href="https://jsb-lab.org/people/chandra-sekhar-mukherjee/"><span class="portrait-crop"><img src="./img/instructors/chandra-sekhar-mukherjee.jpg" alt="Chandra Sekhar Mukherjee" style="object-position:center top;transform:scale(1.3);transform-origin:65% 45%;"></span>Chandra Sekhar<br>Mukherjee</a>
 </td>
 </tr>
 </table>
 
-<div style="font-size:70%;margin-top:20px;">
-<a href="https://matsen.fredhutch.org/">Erick Matsen</a> ·
-<a href="https://jsb-lab.org/people/bo-yuan/">Bo Yuan</a><br/>
-<a href="https://jsb-lab.org/people/siyuan-chen/">Siyuan Chen</a> ·
-<a href="https://jsb-lab.org/people/chandra-sekhar-mukherjee/">Chandra Sekhar Mukherjee</a>
-</div>
+<table class="instructor-row">
+<tr>
+<td>
+<a href="https://www.linkedin.com/in/magdalena-russell/"><img src="./img/instructors/maggie-russell.jpeg" alt="Maggie Russell">Maggie<br>Russell</a>
+</td>
+<td>
+<a href="https://research.fredhutch.org/setty/en.html"><img src="./img/instructors/manu-setty.jpeg" alt="Manu Setty">Manu<br>Setty</a>
+</td>
+<td>
+<a href="http://rasilab.fredhutch.org"><img src="./img/instructors/arvind-rasi-subramaniam.jpg" alt="Rasi Subramaniam">Rasi<br>Subramaniam</a>
+</td>
+<td>
+<a href="https://jsb-lab.org/people/bo-yuan/"><span class="portrait-crop"><img src="./img/instructors/bo-yuan.png" alt="Bo Yuan" style="transform:scale(1.45);transform-origin:54% 67%;"></span>Bo<br>Yuan</a>
+</td>
+</tr>
+</table>
+
+<!-- Portrait sources, accessed October 1, 2026:
+erick-matsen.jpg: https://github.com/matsen.png
+bo-yuan.png: https://jsb-lab.org/wp-content/uploads/2026/06/Untitled.png
+siyuan-chen.jpg: https://jsb-lab.org/wp-content/uploads/2025/12/Weixin-Image_20251202115404_7_116-e1764897743949.jpg
+chandra-sekhar-mukherjee.jpg: https://jsb-lab.org/wp-content/uploads/2026/06/Untitled.jpg
+-->
 
 ---
 
