@@ -29,7 +29,7 @@ customTheme: custom
 Slack Workspace: TFCB2026 (see Canvas for invite link)
 
 - <span style="color:magenta;">#lectures-homeworks</span>: questions about course content and help for homework
-- see pinned posts for zoom links and reminders
+- See [Canvas](https://canvas.uw.edu/courses/1920109) for the Zoom meeting link
 
 ---
 
@@ -38,47 +38,17 @@ Slack Workspace: TFCB2026 (see Canvas for invite link)
 <img src="./img/instructors/arvind-rasi-subramaniam.jpg" style="width:150px;"/>
 
 - Rasi Subramaniam
-- Associate Professor in Basic Sciences & Computational Biology @FredHutch
+- Professor in Basic Sciences & Computational Biology @FredHutch
 - Research Area: mRNA Translation
 - https://rasilab.github.io
 
 ---
 
-## Teaching assistants & office hours
+## Teaching assistant & office hours
 
-<table>
-<tr>
-<td style="padding-right:200px;">
-<img src="./img/instructors/carlos-avendano.jpg" style="width:150px;"/> 
-</td>
-<td>
-<img src="./img/instructors/sam-sgrizzi.jpg"  style="width:150px;"/> 
-</td>
-</tr>
-<tr>
-<td style="padding-right:200px;">
-Carlos Avendano
-</td>
-<td> 
-Samantha Sgrizzi
-</td>
-</tr>
-<tr>
-<td style="padding-right:200px;">
-Mon 2PM-3PM
-</td>
-<td>Wed 4:30PM-5:30PM
-</td>
-</tr>
-</table>
-
-<div style="font-size:18pt;margin-top:50px;">
-Thomas Building Double Helix Cafe (Carlos), Weintraub Building Atrium Level 1 (Sam)
-
-Zoom (see Slack for link)
-</div>
-
-
+- [Val Browning](https://sites.uw.edu/vasquezlab/people/val/)
+- Office hours and location: to be announced
+- Check Canvas and Slack for updates
 
 ---
 
@@ -112,7 +82,7 @@ Maggie Russell
 <img src="./img/instructors/matthew-chan.jpg" style="width:150px;">
 </td>
 <td>
-<img src="./img/instructors/dominik-otto.jpg" style="width:152px;">
+<img src="./img/instructors/manu-setty.jpeg" style="width:152px;">
 </td>
 <td>
 <img src="./img/instructors/arvind-rasi-subramaniam.jpg" style="width:150px;">
@@ -123,7 +93,7 @@ Maggie Russell
 Matthew Chan
 </td>
 <td>
-Dominik Otto
+Manu Setty
 </td>
 <td>
 Rasi Subramaniam
@@ -131,7 +101,12 @@ Rasi Subramaniam
 </tr>
 </table>
 
-Computational Biology Program @ Fred Hutch
+<div style="font-size:70%;margin-top:20px;">
+<a href="https://matsen.fredhutch.org/">Erick Matsen</a> ·
+<a href="https://jsb-lab.org/people/bo-yuan/">Bo Yuan</a><br/>
+<a href="https://jsb-lab.org/people/siyuan-chen/">Siyuan Chen</a> ·
+<a href="https://jsb-lab.org/people/chandra-sekhar-mukherjee/">Chandra Sekhar Mukherjee</a>
+</div>
 
 ---
 
@@ -188,7 +163,10 @@ By the end of the course, you should be able to:
 
 You will find syllabus, lectures, homeworks
 
-https://github.com/fredhutch/tfcb_2026
+https://github.com/FredHutch/tfcb_2026
+
+Tuesday and Thursday, 3:30–4:50 PM Pacific, October 1–December 8, 2026  
+Fred Hutch, B1-072
 
 **Repo is updated just before lectures, make sure to ‘*pull*’ changes**
 
@@ -196,16 +174,16 @@ https://github.com/fredhutch/tfcb_2026
 
 ## Homeworks
 
-Submit through <a href="http://canvas.uw.edu/">Canvas</a>   
+Submit through <a href="https://canvas.uw.edu/courses/1920109">Canvas</a>   
 MCB 536 A Au 26
 Tools For Computational Biology
 
 <p>
 
-Eight assignments (10% each) + [participation](https://github.com/FredHutch/tfcb_2022/blob/master/lectures/lecture01/participation_rubric.md) (20%)
+Eight assignments (10% each) + [participation](./participation_rubric.md) (20%)
 
 ---
 
 ## Before next class
 
-- Install all required [software](https://github.com/FredHutch/tfcb_2022/blob/master/software/README.md) and be prepared with questions!
+- Attempt the required [software installation](../../software/README.md) before October 6 and bring your laptop and questions. Lecture 2 is dedicated to installation and troubleshooting.

@@ -11,7 +11,7 @@ Once you have the above software installed, you should be able to run the exampl
 
 ## VSCode Text Editor
 
-We will use VSCode as the source code and text editor for this class. Install [VSCode](https://code.visualstudio.com/Download) on your computer and view the introductory video [here](https://code.visualstudio.com/docs/introvideos/basics) before the first class to familiarize yourself with the user interface.
+We will use VSCode as the source code and text editor for this class. Install [VSCode](https://code.visualstudio.com/Download) on your computer and view the introductory video [here](https://code.visualstudio.com/docs/introvideos/basics) before the software installation and troubleshooting class on October 6 to familiarize yourself with the user interface.
 
 We will use the following features in VSCode as part of this class:
 
