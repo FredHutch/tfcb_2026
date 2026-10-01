@@ -109,7 +109,6 @@ For general inquiries about this course or add codes, please contact GraduateEdu
 - [Dominik Otto (Setty Lab)](https://research.fredhutch.org/setty/en.html)
 - [Arvind Rasi Subramaniam](http://rasilab.fredhutch.org)
 
-## Teaching Assistants
+## Teaching Assistant
 
-- TBD
-- TBD
+- [Val Browning](https://sites.uw.edu/vasquezlab/people/val/)
