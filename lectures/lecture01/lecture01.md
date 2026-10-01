@@ -6,9 +6,11 @@ enableChalkboard: false
 enableTitleFooter: false
 enableSearch: false
 transition: slide
-theme: night
+theme: white
 customTheme: custom
 ---
+
+<script src="./custom.js"></script>
 
 ### MCB 536
 
@@ -100,12 +102,16 @@ chandra-sekhar-mukherjee.jpg: https://jsb-lab.org/wp-content/uploads/2026/06/Unt
 
 ---
 
-## Introduce yourself!
+## Course roadmap
 
-- Name
-- Research interests (type of data, model organism, research questions, etc)
-- Programming background (Python, R, Unix/Bash, etc.)
-- What are you hoping to get out of this course?
+- Setting up your computing environment
+- Project organization and reproducibility: Git and GitHub
+- Command line and automation
+- Python programming, data analysis, and visualization
+- Modeling and machine learning
+- Data analysis and visualization with R/tidyverse
+- AI-assisted coding
+- Sequencing and genomic data analysis
 
 ---
 
@@ -177,3 +183,26 @@ Eight assignments (10% each) + [participation](./participation_rubric.md) (20%)
 ## Before next class
 
 - Attempt the required [software installation](../../software/README.md) before October 6 and bring your laptop and questions. Lecture 2 is dedicated to installation and troubleshooting.
+
+---
+
+## GitHub account
+
+Five-minute activity for [Homework 1, Problem 1](../../homeworks/homework01/README.md#problem-1).
+
+1. [Create a free GitHub account](https://github.com/signup), or sign in to your existing account.
+2. Verify your email address if you are creating an account.
+3. Add your research interests and affiliation to your profile.
+4. Open and bookmark the [course repository](https://github.com/FredHutch/tfcb_2026).
+5. Save your profile link for Homework 1.
+
+<!-- Account instructions: https://docs.github.com/en/account-and-profile/how-tos/account-management/creating-an-account-on-github -->
+
+---
+
+## Introduce yourself!
+
+- Name
+- Research interests (type of data, model organism, research questions, etc)
+- Programming background (Python, R, Unix/Bash, etc.)
+- What are you hoping to get out of this course?
