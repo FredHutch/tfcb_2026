@@ -1,11 +1,36 @@
-.reveal h1 {
-    font-size: 200%;
-}
-
-.reveal h2 {
-    font-size: 125%;
-}
-
-.reveal li{
-    font-size: 80%;
-}
+.reveal { font-family: Helvetica, Arial, sans-serif; }
+.reveal h1 { font-family: inherit; font-size: 1.65em; font-weight: 600; line-height: 1.15; }
+.reveal h2 { font-family: inherit; font-size: 1.16em; font-weight: 600; }
+.reveal ul { display: block; margin-left: 1.2em; }
+.reveal li { font-size: 0.78em; line-height: 1.35; margin-bottom: 0.3em; }
+.reveal table { font-size: 0.63em; width: 100%; }
+.reveal th, .reveal td { padding: 0.3em; text-align: left; }
+.reveal pre { width: 96%; font-size: 0.56em; box-shadow: none; background: rgba(255, 255, 255, 0.05); }
+.reveal pre code { max-height: 420px; padding: 14px; }
+.reveal img { background: white; max-height: 450px; max-width: 95%; object-fit: contain; border: none; box-shadow: none; }
+.reveal img[alt^="Published"] { width: 550px; }
+.reveal a { overflow-wrap: anywhere; }
+.reveal blockquote { width: 85%; font-size: 0.9em; font-style: italic; line-height: 1.4; padding: 0.4em 1em 0.5em; background: rgba(255, 255, 255, 0.05); border-left: 6px solid #f2c05c; border-radius: 0 6px 6px 0; box-shadow: none; }
+.reveal blockquote p { margin: 0.2em 0; }
+.reveal blockquote p::before { content: "\201C"; color: #f2c05c; font-size: 2.2em; font-style: normal; line-height: 0; vertical-align: -0.35em; margin-right: 0.1em; }
+.reveal p.source { font-size: 0.6em; width: 85%; margin: 0.3em auto 0.8em; text-align: right; }
+.reveal .tree { font-family: "DejaVu Sans Mono", Menlo, monospace; font-size: 0.46em; line-height: 1.5; text-align: left; width: 96%; margin: 0.4em auto 0.8em; padding: 0.7em 1em; background: rgba(255, 255, 255, 0.05); border-radius: 6px; }
+.reveal .tree .row { display: grid; grid-template-columns: 27em 1fr; }
+.reveal .tree .d1 > span:first-child { padding-left: 2em; }
+.reveal .tree .d2 > span:first-child { padding-left: 4em; }
+.reveal .tree .desc { color: rgba(255, 255, 255, 0.5); font-family: Helvetica, Arial, sans-serif; line-height: 1.5; }
+.reveal .tree .readme { color: #f4f4f4; font-weight: bold; }
+.reveal .tree .records { color: #6cb4ee; font-weight: bold; }
+.reveal .tree .analysis { color: #7ed6a0; font-weight: bold; }
+.reveal .tree .inputs { color: #f2c05c; }
+.reveal .tree .code { color: #b79cf0; }
+.reveal .tree .outputs { color: #f08a7a; }
+.reveal .tree .writing { color: #e58fc4; font-weight: bold; }
+.reveal pre.csv { font-family: "DejaVu Sans Mono", Menlo, monospace; font-size: 0.75em; line-height: 1.6; width: 70%; padding: 0.6em 1em; }
+.reveal pre.csv .sep { color: rgba(255, 255, 255, 0.35); }
+.reveal pre.csv .h { font-weight: bold; }
+.reveal pre.csv .c0 { color: #6cb4ee; }
+.reveal pre.csv .c1 { color: #7ed6a0; }
+.reveal pre.csv .c2 { color: #f2c05c; }
+.reveal pre.csv .c3 { color: #e58fc4; }
+.reveal li code { font-size: 0.8em; color: #f2c05c; background: rgba(255, 255, 255, 0.08); padding: 0.05em 0.3em; border-radius: 4px; }

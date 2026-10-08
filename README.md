@@ -24,7 +24,7 @@ TA Office Hours and Location: TBD
 | ------- | ------ | ------------------------ | ------------------------------------------------------------------------------- |
 | 1       | Oct 1  | Rasi Subramaniam         | [Introduction to Computational Biology and course](lectures/lecture01/)         |
 | 2       | Oct 6  | TA-led                   | [Software installation and troubleshooting](software/README.md)                 |
-| 3       | Oct 8  | Rasi Subramaniam         | [VScode, Git, and project organization](lectures/lecture03/)                    |
+| 3       | Oct 8  | Rasi Subramaniam         | [Project and Data Organization](./lectures/lecture03/)                          |
 | 4       | Oct 13 | Melody Campbell          | [Introduction to the command line](lectures/lecture04/)                         |
 | 5       | Oct 15 | Melody Campbell          | [Intro to the command line (continued)](lectures/lecture05/)                    |
 | 6       | Oct 20 | Phil Bradley             | [Introduction to Python](lectures/lecture06/)                                   |
@@ -63,7 +63,7 @@ For further assistance, TAs will be available to offer assistance just after the
 
 | Homework | Assigned Date | Due Date | Topic                                                                  |
 | -------- | ------------- | -------- | ---------------------------------------------------------------------- |
-| 1        | Oct 8         | Oct 15   | [Reproducible science, Git and GitHub, Markdown](homeworks/homework01) |
+| 1        | Oct 8         | Oct 15   | [Markdown experiment log, GitHub issues, labels, and collaborators](homeworks/homework01) |
 | 2        | Oct 15        | Oct 22   | [Unix command line](homeworks/homework02)                              |
 | 3        | Oct 22        | Oct 29   | [Programming in Python](homeworks/homework03)                          |
 | 4        | Oct 29        | Nov 5    | [Python analysis](homeworks/homework04)                                |
