@@ -50,7 +50,7 @@ October 8, 2026
 - Organize project files and track their changes
 - Use [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/about-issues) to discuss and track ideas, plans, work progress, and results
 - Private or public
-- [Example](https://github.com/rasilab/codon_optimality_mammalian_cells)
+- [Example](https://github.com/rasilab/github_demo)
 
 ---
 
@@ -67,10 +67,10 @@ October 8, 2026
 
 ## Use Markdown for writing
 
-- [README.md](https://github.com/rasilab/codon_optimality_mammalian_cells/blob/master/README.md)
+- [README.md](https://github.com/rasilab/github_demo/blob/main/README.md)
 - [Manuscript](https://github.com/rasilab/nugent_2024/blob/main/manuscript/manuscript.md)
-- [Experiment notebook](https://github.com/rasilab/codon_optimality_mammalian_cells/blob/master/experiments/hborror/2026-02-24_i431_illumina_GC_reporter_library_prep_wt.md)
-- [Presentation](https://github.com/rasilab/codon_optimality_mammalian_cells/blob/master/presentations/hborror/journal_club/20261006/presentation.md)
+- [Experiment notebook](https://github.com/rasilab/github_demo/blob/main/experiments/kchen/114_exp66_library_prep_rqc_del.md)
+- [Presentation](https://github.com/rasilab/github_demo/blob/main/presentations/kchen/20241214_thesis_defense/presentation.md)
 
 ---
 
@@ -119,8 +119,8 @@ October 8, 2026
 🟫 grants/                             # grant and fellowship applications
 ```
 
-- [Template](https://github.com/rasilab/project_repo)
-- [Example](https://github.com/rasilab/codon_optimality_mammalian_cells)
+- [Template](https://github.com/rasilab/github_template)
+- [Example](https://github.com/rasilab/github_demo)
 
 ---
 
@@ -129,7 +129,7 @@ October 8, 2026
 - An issue links all work on a scientific task
 - Use issue numbers to link all files related to the issue
 - Record plans, discussion, and results as comments
-- [Example](https://github.com/rasilab/codon_optimality_mammalian_cells/issues/467)
+- [Example](https://github.com/rasilab/github_demo/issues/2)
 
 ---
 
@@ -138,7 +138,8 @@ October 8, 2026
 - Useful for prioritizing between different experimental and computational tasks
 - Group issues into projects with dates, labels, and collaborators
 - View the same issues as a table, board, or Gantt chart
-- [Example](https://github.com/orgs/rasilab/projects/40/views/2)
+- [Example](https://github.com/orgs/galaxyproject/projects/77/views/2)
+- [Documentation](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
 
 ---
 
