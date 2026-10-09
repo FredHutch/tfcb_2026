@@ -14,11 +14,9 @@
 .reveal blockquote p { margin: 0.2em 0; }
 .reveal blockquote p::before { content: "\201C"; color: #f2c05c; font-size: 2.2em; font-style: normal; line-height: 0; vertical-align: -0.35em; margin-right: 0.1em; }
 .reveal p.source { font-size: 0.6em; width: 85%; margin: 0.3em auto 0.8em; text-align: right; }
-.reveal .tree { font-family: "DejaVu Sans Mono", Menlo, monospace; font-size: 0.46em; line-height: 1.5; text-align: left; width: 96%; margin: 0.4em auto 0.8em; padding: 0.7em 1em; background: rgba(255, 255, 255, 0.05); border-radius: 6px; }
-.reveal .tree .row { display: grid; grid-template-columns: 27em 1fr; }
-.reveal .tree .d1 > span:first-child { padding-left: 2em; }
-.reveal .tree .d2 > span:first-child { padding-left: 4em; }
-.reveal .tree .desc { color: rgba(255, 255, 255, 0.5); font-family: Helvetica, Arial, sans-serif; line-height: 1.5; }
+.reveal pre.tree { font-size: 0.46em; line-height: 1.5; }
+.reveal pre.tree code { max-height: none; }
+.reveal .tree .desc { color: rgba(255, 255, 255, 0.5); }
 .reveal .tree .readme { color: #f4f4f4; font-weight: bold; }
 .reveal .tree .records { color: #6cb4ee; font-weight: bold; }
 .reveal .tree .analysis { color: #7ed6a0; font-weight: bold; }

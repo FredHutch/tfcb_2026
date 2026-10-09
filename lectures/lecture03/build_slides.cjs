@@ -19,6 +19,16 @@ const LOCAL_IMAGES = {};
   const { marked } = await import(require.resolve('marked'));
   const source = fs.readFileSync(`${SLIDES}/README.md`, 'utf8').replace(/^---\n[\s\S]*?\n---\n/, '');
   let slides = source.split('\n---\n').map(text => `<section>${marked.parse(text)}</section>`).join('\n');
+  // Color tree blocks: a leading square emoji marks each line's category and is hidden in the slides.
+  const TREE_CLASSES = {'⬜': 'readme', '🟦': 'records', '🟩': 'analysis', '🟧': 'inputs', '🟪': 'code', '🟥': 'outputs', '🟫': 'writing'};
+  slides = slides.replace(/<pre><code class="language-tree">([\s\S]*?)<\/code><\/pre>/g, (match, body) => {
+    const lines = body.trimEnd().split('\n').map(line => {
+      const [, marker, text] = line.match(/^(\S+) (.*)$/);
+      const [name, ...note] = text.split('# ');
+      return `<span class="${TREE_CLASSES[marker]}">${name}</span>` + (note.length ? `<span class="desc">${note.join('# ')}</span>` : '');
+    });
+    return `<pre class="tree"><code>${lines.join('\n')}</code></pre>`;
+  });
   slides = slides.replace(/src="(https:\/\/github.com\/[^"\s]+)"/g, (match, url) => {
     const file = LOCAL_IMAGES[url.split('/').pop().split('?')[0]];
     if (!file) throw new Error(`No local image for ${url}`);
