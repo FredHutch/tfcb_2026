@@ -17,7 +17,7 @@ Time: 3:30PM-4:50PM, Tue & Thu, Oct 1 - Dec 8 2026
 
 Class Location: Fred Hutch, B1-072
 
-TA Office Hours and Location: TBD
+TA Office Hours and Location: Thursdays 2–3 PM Pacific, Fred Hutch cafeteria area or Zoom (see Canvas and Slack for the Zoom link)
 
 
 | Lecture | Date   | Instructor               | Topic                                                                           |
