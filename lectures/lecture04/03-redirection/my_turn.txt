@@ -1,0 +1,28 @@
+Mon Oct 19 20:12:14 PDT 2026
+
+         _.-'~~~~~~`-._
+        /      ||      \
+       /       ||       \
+      |        ||        |
+      | _______||_______ |
+      |/ ----- \/ ----- \|
+     /  (     )  (     )  \
+    / \  ----- () -----  / \
+   /   \      /||\      /   \
+  /     \    /||||\    /     \
+ /       \  /||||||\  /       \
+/_        \o========o/        _\
+  `--...__|`-._  _.-'|__...--'
+          |    `'    |
+01-first-steps.md
+02-directories
+03-redirection
+04-vim
+05-history
+06-scripting
+07-more-interactive-shell
+quickref.md
+README.md
+sequence.gb
+slides
+vader.txt

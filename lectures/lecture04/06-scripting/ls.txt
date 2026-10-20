@@ -1,0 +1,6 @@
+date.txt
+delete.sh
+ls.txt
+puritanical.md
+README.md
+script1.sh
