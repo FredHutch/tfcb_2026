@@ -11,7 +11,7 @@ Replace the lines specified in _italics_ with your answers and save as a text fi
 
 Complete the interactive tutorial.
 
-_Did you hit any points of frustration, and if so, how could we improve the material to avoid that frustration?_
+_Did you hit any points of frustration, and if so, how could we improve the material to avoid that frustration? If there is something that you would have liked to learn that we left out please let us know so in future years it can be included_
 
 
 ## Problem 1

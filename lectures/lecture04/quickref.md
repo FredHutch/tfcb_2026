@@ -3,7 +3,7 @@
 * `ls`: list directory contents
 
 * `echo`: spit a file out onto the terminal
-* `cat`: concatenate (print out a file onto the terminal)
+* `cat`: concatenate (print out a file into the terminal)
 * `less`: view a file page by page
 * `file`: see the filetype of a file
 

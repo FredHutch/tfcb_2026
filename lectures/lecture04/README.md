@@ -1,102 +1,53 @@
-# A bit more interactive shell
+# Lecture 04: First steps in the shell
 
-### A little about wildcards/globbing
+**Melody Campbell ([@melodygcampbell](https://twitter.com/melodygcampbell), [campbelllab.org](http://campbelllab.org))**
 
-In the scripting component you just did, we used wildcards like so:
+This lesson introduces you to the command line (a.k.a. Unix shell), which is useful (and necessary) for automating tasks, working with files/directories, and using compute clusters.
 
-    ls PHOTO*.jpg
+In the first lecture, I will describe the history of and larger context for why we want to use the command line.
+[Last year's slides are here](https://github.com/FredHutch/tfcb_2025/blob/main/lectures/lecture04/slides/2025oct07_MCB536_Lecture04.pdf), this year's slides will be here and if you missed the lecture [here is a similar recorded version from 2022](https://youtu.be/vUzns3Wk-_U). 
 
-The `*` just represents any set of characters.
-Thus this `ls` call just lists anything that starts with `PHOTO` and ends with `.jpg`.
-
-Now it's your turn.
-You can combine wildcards, using them for example for both directory and file names.
-Try using a wildcard to list all of the `.md` files in `02-directories/purchase` directory one directory down.
-(There is also a Python `glob` module which implements wildcards, if you need that at some point.)
-
-[There are other symbols you can use if you want more precise control over your wildcard matches](http://www.linfo.org/wildcard.html) but `*` is a fine start.
+If you want a second opnion or want to learn clutser-based computing and parallelization, [here is a recorded version](https://www.youtube.com/watch?v=dzkacZ2BTjw) and [here are the slides](https://fredhutch.github.io/tfcb_2021/lectures/lecture03/slides/slides.html) covering related material by Erick Matsen in 2020.
 
 
-### Hidden directories and files
+## Learning objectives
 
-The shell has a special way of hiding files that you don't want to see: any file or directory starting with a period (`.`) is hidden when you `ls`.
-It's also not matched with `*`.
-Try doing
+After these two lectures, you should be able to:
 
-    echo ~/*
+- Navigate a file system in the shell (lecture 04)
+- Run commands in the shell (lecture 04)
+- Understand basic usage of redirection (lecture 04)
+- Write a for loop (lecture 05)
+- Edit a file using vim (lecture 05)
+- Write a basic shell script (lecture 05)
 
-which compactly lists all of the non-hidden files in your home directory (which is `~`).
-Then try
+## Class materials
 
-    echo ~/.*
+- All instructions for this lesson are links or are available in this repository.
+  - See the Tutorial section in the next lecture to get started with the exercises.
+  - The recorded lecture and introductory slides are linked to above.
+  
+## Setup: Accessing a Command Line
 
-which shows all of the hidden files.
-
-You can also use
-
-    ls -a ~
-
-which will list all of the files in `~`.
-
-
-### Removing files
-
-Removing files happens with
-
-    rm FILENAMES
-
-where `FILENAMES` can be one or more names.
-Removing directories happens with
-
-    rmdir DIRECTORYNAMES
-
-where `DIRECTORYNAMES` is one or more directory names.
-However, these directories need to be empty.
-It is more common to use the less safe
-
-    rm -r DIRECTORYNAMES
-
-which recursively removes `DIRECTORYNAMES` and all of their contents.
-
-BE CAREFUL!! Unlike "putting something in the trash" on a desktop OS, once linux removes a file, it's gone!
+This material requires access to a [unix shell](https://fredhutch.github.io/tfcb_2021/software/#unix-command-line-shell). Different "flavors" of shell have slight variations in commands available so don't be surprised if some of the commands and options are slightly different (especially on OS X).
+  
+- **Use a Command Line via Visual Studio Code (required for this course)**
+  - [Install using these instructions](https://github.com/FredHutch/tfcb_2026/blob/main/software/README.md)
+  - Adjust the view options in the upper right corner to toggle view and maximize the "Terminal" tab
+  
+- **Use a Command Line on Mac OS X**
+  - Macintosh operating systems are built on Unix, so many of the tools you’ll need are pre-installed on your computer. You can access the command line through an application called Terminal. You can either search for this in Finder, or use the Go drop-down menu to locate it in the Utilities folder.
+  
+- **Use a Command Line on Windows 10**
+  - Windows 10 comes with a new feature called Windows Subsystem for Linux (WSL) that allows you to access Unix tools on your computer. Please install WSL with the instructions [here](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 
-### Making directories
+## Reminders
 
-Making directories is done with
+- Homework 2 (command line) will be available [here](https://github.com/FredHutch/tfcb_2026/tree/main/homeworks/homework02) on October 15th; it may be useful to reference these questions as you work through material in the second class.
 
-    mkdir DIRECTORY
+## Further references
 
-which makes a directory called `DIRECTORY`.
-
-
-### Copying and moving/renaming files
-
-Copying files uses the `cp` command, like so:
-
-    cp SOURCE DESTINATION
-
-where `SOURCE` is an extant file, and `DESTINATION` is a place the file can go.
-If `DESTINATION` is a file name, it will copy that file to have that new name.
-If `DESTINATION` is a directory, it will copy the file with the same name into that directory.
-
-You can also use the form
-
-    cp SOURCES DIRECTORY
-
-where `SOURCES` is a collection of files and `DIRECTORY` is a directory.
-
-Moving/renaming files is just the same, except that you use the `mv` command rather than the `cp` command.
-
-Now it's your turn.
-
-* Copy this `README.md` file into `..`
-* Rename it `../README.copy.md`
-* Make a directory called `copies`
-* Copy `../README.copy.md` and into `copies`
-* Remove the `copies` directory
-
----
-
-Congratulations!
-You are done with the tutorial!
+* [Software Carpentry's shell introduction](https://swcarpentry.github.io/shell-novice/)
+* [Software Carpentry's shell topics](https://carpentries-incubator.github.io/shell-extras/)
+* [MIT Computer Science "Missing Semester"](https://missing.csail.mit.edu/)
