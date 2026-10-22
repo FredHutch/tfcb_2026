@@ -1,0 +1,16 @@
+My username is MerpaLerpa
+My home directory is /Users/MerpaLerpa
+The contents of tfcb_2023/lectures/lecture04/ directory are
+01-first-steps.md
+02-directories
+03-redirection
+04-vim
+05-history
+06-scripting
+07-more-interactive-shell
+quickref.md
+README.copy.md
+README.md
+sequence.gb
+slides
+vader.txt

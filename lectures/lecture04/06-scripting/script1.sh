@@ -1,18 +1,8 @@
-	 ls
-	 ls
-	 ~/.bashrc
-	 export HISTFILESIZE = export HISTSIZE=
-	 export HISTFILESIZE = 
-	 export HISTFILESIZE=
-	 export HISTSIZE=
-	 pwd
-	 cd ../06-scripting
-	 pwd
-	 pwd
-	 fc -ln
-	 q
+	 #History of commands that I edited in vim! How cool!
+
 	 date > date.txt
+	 ls *.txt
 	 ls > ls.txt
-	 echo shell scripting is hip!
-	 echo the force is strong w/shell scripting!
+	 echo "shell scripting is hip"
+	 echo the force is strong with this programmer!
 	 fc -ln -20

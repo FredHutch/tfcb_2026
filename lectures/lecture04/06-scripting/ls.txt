@@ -1,6 +1,10 @@
 date.txt
 delete.sh
+important_date.txt
+important_ls.txt
 ls.txt
 puritanical.md
 README.md
 script1.sh
+texts
+texts.v2

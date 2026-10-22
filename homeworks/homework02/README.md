@@ -13,6 +13,8 @@ Complete the interactive tutorial.
 
 _Did you hit any points of frustration, and if so, how could we improve the material to avoid that frustration? If there is something that you would have liked to learn that we left out please let us know so in future years it can be included_
 
+I didn't hit any frustration. I was really interested in the vim text editor. I would have like to learn more about the context. Why a text editor is necessary. vim seems like it would be really fun to be good at. Val said that he uses a different text editor so maybe a slide or two about what text editors are, what the options are and why they are important would be helpful? The tutorial was really helpful. Sincere gratitude for organizing that it seems like a lot of effort went into making it as incredibly streamlined as it was. 
+
 
 ## Problem 1
 
