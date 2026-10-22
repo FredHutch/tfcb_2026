@@ -56,6 +56,21 @@ vader.txt<br>
 
 _Paste your SCRIPT here (not the output)_
 
+#!/bin/bash
+
+{
+echo "My username is $(whoami)"
+echo "My home directory is $HOME"
+echo "The contents of tfcb_2023/lectures/lecture04/ directory are"
+ls ~/Documents/tfcb_2026/tfcb_2026/lectures/lecture04
+} > question01.txt
+
+mkdir -p homework02
+mv question01.txt homework02/
+
+cat homework02/question01.txt
+ 
+
 
 ## Problem 2
 
@@ -78,5 +93,16 @@ tfcb_2023/homeworks/homework02/list.txt
 You can make the contents of those files whatever you want (hint: slide 9... )
 
 _Paste your SCRIPT here (not the output)_
+
+
+#!/bin/bash
+
+mkdir ~/Documents/tfcb_2026/tfcb_2026/homeworks/homework02/question02
+
+for i in `cat list.txt` ; do echo $i ; done 
+
+for i in `cat list.txt` ; do echo text_$i > ~/Documents/tfcb_2026/tfcb_2026/homeworks/homework02/question02/file$i.txt ; done
+
+
 
 
