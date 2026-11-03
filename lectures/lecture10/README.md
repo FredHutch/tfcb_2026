@@ -1,6 +1,6 @@
 # Lecture 10: Python data analysis with pandas and scikit-learn
 
-This final section on Python will provide more depth to your understanding of the Python packages widely used for statistical and data analysis: pandas, numpy and scikit-learn (all of which come installed with Anaconda!).
+This final section on Python will provide more depth to your understanding of the Python packages widely used for statistical and data analysis: pandas, numpy and scikit-learn.
 
 ## Learning objectives
 
@@ -10,6 +10,6 @@ This final section on Python will provide more depth to your understanding of th
 
 ## Class materials
 
-- The content for this lecture is containing in the Jupyter notebook [`lectures10and11.ipynb`](lectures10and11.ipynb) located in this directory.
+- The content for this lecture is contained in the Jupyter notebook [`lectures10and11.ipynb`](lectures10and11.ipynb) located in this directory.
 
 - We recommend making a copy of that notebook (naming it something different, like `my_lectures10and11.ipynb`), to prevent conflicts when pulling any changes for the next lecture. 
